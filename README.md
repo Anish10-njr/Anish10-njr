@@ -1,42 +1,69 @@
-# 👋 Hi, I'm Anish Mukherjee
-
-💡 ** A Passionate Data Analyst** dedicated to transforming raw data into meaningful insights.  
-I enjoy exploring data patterns, building dashboards, and creating impactful reports.
+<!-- Animated Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&width=600&lines=Hi%2C+I'm+Anish+Mukherjee+👋;Passionate+Data+Analyst;SQL+%7C+Power+BI+%7C+Tableau;Python+%7C+Excel+%7C+PostgreSQL;Turning+Data+into+Insights+📊)](https://git.io/typing-svg)
 
 ---
 
 ## 🛠 Skills & Tools
 
-- **Databases:** MySQL, PostgreSQL  
-- **Data Visualization:** Power BI, Tableau  
-- **Programming:** Python (`pandas`, `numpy`)  
-- **Data Analysis:** MS Excel (Advanced Functions, Pivot Tables, Charts)  
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 What I Do
 
-- Transform complex datasets into clear, actionable insights  
-- Design interactive dashboards for decision-making  
-- Write optimized SQL queries for large-scale data  
-- Automate data cleaning and transformation processes  
+- 🔍 Transform complex datasets into clear, actionable insights  
+- 📊 Design interactive dashboards for decision-making  
+- 🗄 Write optimized SQL queries for large-scale data  
+- ⚡ Automate data cleaning and transformation processes  
+
+---
+
+## 🌟 Live Data Visualization Showcase
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTI3d2M4YzQ3YmhpZ2lqYnllZXJxdXpsNjJscGVwaG8zYmN4YWNzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmx6eWJuaWlqZnR5enI4c2R1NnNmdjBpcnprM3dkNWxhcXR6Z3V3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="400" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anish-mukherjee11)
+<p align="center">
+  <a href="https://www.linkedin.com/in/anish-mukherjee11">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish10-njr&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish10-njr&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anish10-njr&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish10-njr&layout=compact&theme=radical" height="180" />
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anish10-njr&label=Profile%20Views&color=blue&style=for-the-badge)
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anish10-njr&theme=radical&hide_border=true" />
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anish10-njr&label=Profile%20Views&color=ff69b4&style=for-the-badge)
 
 ---
 
