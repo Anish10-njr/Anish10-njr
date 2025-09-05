@@ -27,15 +27,6 @@
 
 ---
 
-## 🌟 Live Data Visualization Showcase
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTI3d2M4YzQ3YmhpZ2lqYnllZXJxdXpsNjJscGVwaG8zYmN4YWNzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmx6eWJuaWlqZnR5enI4c2R1NnNmdjBpcnprM3dkNWxhcXR6Z3V3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="400" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
